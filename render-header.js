@@ -16,7 +16,7 @@
  */
 
 // Configuration
-const HEADER_API_URL = 'https://cloudflare-worker-bff.jasonh1993.workers.dev';
+const HEADER_API_URL = 'https://cloudflare-worker-bff.jasonh1993.workers.dev/api/header-data';
 const WORKER_BASE_URL = 'https://cloudflare-worker-bff.jasonh1993.workers.dev';
 const THEME_STORAGE_KEY = 'user-theme-preference';
 let currentTheme = 'light';
